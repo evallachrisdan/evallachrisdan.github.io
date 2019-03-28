@@ -642,3 +642,9 @@ nav ul li a {
 .credits {
   font-size: 13px;
 }
+
+@media (max-width:632px){
+  #about{
+    padding-top: 20px;
+  }
+}
